@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">without_recreate_bottom_nav_fragment</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_gallery">Gallery</string>
+    <string name="navigation_notification">Notification</string>
+    <string name="click">Click me</string>
+</resources>
